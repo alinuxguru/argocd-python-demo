@@ -2,4 +2,4 @@
 import time
 print("hello world - version 2")
 while True:
-	time.sleep(3600)
+	time.sleep(5)
