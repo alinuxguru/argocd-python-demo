@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: python-demo
-        image: santhgeek/python-demo:v1
+        image: santhgeek/python-demo:v2
         imagePullPolicy: Always
 
